@@ -25,3 +25,4 @@ We gladly welcome development help, regardless of coding experience. We can also
 
 Once you've done that, please feel free to [submit a pull request](https://github.com/writeas/writefreely/pulls) for any small improvements. For larger projects, please [join our development discussions](https://discuss.write.as/c/writefreely) or [get in touch](https://write.as/contact) so we can talk about what you'd like to work on.
 contributed.
+contributed
